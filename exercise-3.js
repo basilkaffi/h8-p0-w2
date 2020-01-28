@@ -10,7 +10,7 @@ if (nama){
 	break
       case 'Tabib':
         console.log(`Selamat datang di Dunia Proxytia, ${nama}`)
-	console.log(`Halo ${peran} ${nama}, kamu dapat menyerang dengan senjatamu!`)
+	console.log(`Halo ${peran} ${nama}, kamu kamu akan membantu temanmu yang terluka.`)
 	break
       case 'Penyihir':
         console.log(`Selamat datang di Dunia Proxytia, ${nama}`)
