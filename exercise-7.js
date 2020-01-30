@@ -20,6 +20,19 @@ for(rows3=0;rows3<5;rows3++){
 	var star=''
 	for(var a=0;a<=rows3;a++){
 		star+='*'
+		if(a==rows3) console.log(star)
+	}
+}
+
+/* code above equal to */
+
+var rows3
+
+for(rows3=0;rows3<5;rows3++){
+	var star=''
+	for(var a=0;a<=rows3;a++){
+		star+='*'
 	}
 	console.log(star)
 }
+
